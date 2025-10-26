@@ -7,6 +7,8 @@ Design patters are reusable, proven best approaches to tackle common problems.
 ### 1. Creational Patterns
 Pattern that deals with obkect creational mechanisms. Creting objects in a suitable for a situation manner.
 
-### 2. Structurl Patterns
+### 2. Structural Patterns
+Pattern that deals with object structuring and composition.
 
 ### 3. Behavioural Patterns
+Pattern that deals with object interaction and communication.
